@@ -1,0 +1,46 @@
+# # APIOUTBOUNDDELIVERYSRVAHandlingUnitHeaderDeliveryType
+
+## Properties
+
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**created_by_user** | **string** |  | [optional]
+**creation_date** | **string** |  | [optional]
+**creation_time** | **string** |  | [optional]
+**delivery_document** | **string** |  | [optional]
+**gross_volume** | **float** |  | [optional]
+**gross_weight** | **float** |  | [optional]
+**handling_unit_base_unit_of_measure** | **string** |  | [optional]
+**handling_unit_content_description** | **string** |  | [optional]
+**handling_unit_external_id** | **string** |  | [optional]
+**handling_unit_external_id_type** | **string** |  | [optional]
+**handling_unit_height** | **float** |  | [optional]
+**handling_unit_internal_id** | **string** |  | [optional]
+**handling_unit_internal_status** | **string** |  | [optional]
+**handling_unit_length** | **float** |  | [optional]
+**handling_unit_lower_level_refer** | **string** |  | [optional]
+**handling_unit_max_volume** | **float** |  | [optional]
+**handling_unit_max_weight** | **float** |  | [optional]
+**handling_unit_net_volume** | **float** |  | [optional]
+**handling_unit_second_external_id** | **string** |  | [optional]
+**handling_unit_tare_volume** | **float** |  | [optional]
+**handling_unit_tare_volume_unit** | **string** |  | [optional]
+**handling_unit_tare_weight** | **float** |  | [optional]
+**handling_unit_tare_weight_unit** | **string** |  | [optional]
+**handling_unit_uo_m_dimension** | **string** |  | [optional]
+**handling_unit_width** | **float** |  | [optional]
+**last_change_date** | **string** |  | [optional]
+**last_changed_by_user** | **string** |  | [optional]
+**last_change_time** | **string** |  | [optional]
+**net_weight** | **float** |  | [optional]
+**packaging_material** | **string** |  | [optional]
+**packaging_material_category** | **string** |  | [optional]
+**packaging_material_group** | **string** |  | [optional]
+**packaging_material_type** | **string** |  | [optional]
+**packing_instruction_number** | **string** |  | [optional]
+**shipping_point** | **string** |  | [optional]
+**volume_unit** | **string** |  | [optional]
+**weight_unit** | **string** |  | [optional]
+**to_handling_unit_item_delivery** | [**\BeLenka\SAP\OutboundDelivery\Model\APIOUTBOUNDDELIVERYSRVAHandlingUnitHeaderDeliveryTypeToHandlingUnitItemDelivery**](APIOUTBOUNDDELIVERYSRVAHandlingUnitHeaderDeliveryTypeToHandlingUnitItemDelivery.md) |  | [optional]
+
+[[Back to Model list]](../../README.md#models) [[Back to API list]](../../README.md#endpoints) [[Back to README]](../../README.md)
